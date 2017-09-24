@@ -1,4 +1,4 @@
-# Protection Script
+# Maximum PC Protection (Without Breaking!)
 
 The Protection script will maximize the security of your PC.
 - ✓ Enables Firewall
@@ -36,5 +36,3 @@ The Protection script will maximize the security of your PC.
      ```
 
 Now your PC is protected from unwanted activity!
-
-# protection
