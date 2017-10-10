@@ -1,4 +1,4 @@
-# Maximum PC Protection (Without Breaking!)
+# PC Protection (While Retaining Full Functionality)
 
 The Protection script will maximize the security of your PC.
 - ✓ Enables Firewall
@@ -20,7 +20,7 @@ The Protection script will maximize the security of your PC.
      ```
    - Once it's downloaded, Copy/Paste the following line in Command Prompt:
      ```cmd
-     Git-2.14.1-64-bit.exe /VERYSILENT /NORESTART
+     .\Git-2.14.1-64-bit.exe /VERYSILENT /NORESTART
      ```
 
 3. **Install Protection Script**
@@ -32,7 +32,7 @@ The Protection script will maximize the security of your PC.
 4. **Run the Script**
    - Copy/Paste the following line in Command Prompt:
      ```cmd
-     powershell -ExecutionPolicy Bypass -File C:\protection\windows.sh
+     powershell -ExecutionPolicy Bypass -File .\protection\windows-sec.sh
      ```
 
 Now your PC is protected from unwanted activity!
