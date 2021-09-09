@@ -1,4 +1,4 @@
-# Maximum PC Protection (Without Breaking!)
+# Optimal Protection (Without Breaking!)
 
 The Protection script will maximize the security of your PC.
 - ✓ Enables Firewall
@@ -30,10 +30,14 @@ Make sure you have at least 200 MB of free space available.
 3. **Download Protection Script**
    - Copy/Paste the following line in Command Prompt:
      ```cmd
-     curl -o win.ps1 https://raw.githubusercontent.com/boolskii/protection/main/win.ps1
+     git clone https://github.com/boolskii/protection.git
      ```
 
 4. **Run the Windows Script**
+   - Navigate to the protection directory:
+     ```cmd
+     cd protection
+     ```
    - Copy/Paste the following line in Command Prompt:
      ```cmd
      powershell -ExecutionPolicy Bypass -File .\win.ps1
@@ -72,3 +76,35 @@ Make sure you have at least 100 MB of free space available.
      ```
 
 Now your Linux system is protected from unwanted activity!
+
+### For macOS Users:
+
+Make sure you have at least 100 MB of free space available.
+
+1. **Open Terminal**
+
+2. **Install Homebrew (if not already installed)**
+   - Copy/Paste the following line in Terminal:
+     ```bash
+     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+     ```
+
+3. **Install Git**
+   - Copy/Paste the following line in Terminal:
+     ```bash
+     brew install git
+     ```
+
+4. **Download Protection Script**
+   - Copy/Paste the following line in Terminal:
+     ```bash
+     curl -o mac.sh https://raw.githubusercontent.com/boolskii/protection/main/mac.sh
+     ```
+
+5. **Run the macOS Script**
+   - Copy/Paste the following line in Terminal:
+     ```bash
+     sudo bash ./mac.sh
+     ```
+
+Now your macOS system is protected from unwanted activity!
