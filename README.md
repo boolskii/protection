@@ -1,4 +1,4 @@
-# Optimal Protection (Without Breaking!)
+# Optimal System Protection 
 
 The Protection script will maximize the security of your PC.
 - ✓ Enables Firewall
@@ -27,19 +27,10 @@ Make sure you have at least 200 MB of free space available.
      .\Git-2.14.1-64-bit.exe /VERYSILENT /NORESTART
      ```
 
-3. **Download Protection Script**
-   - Copy/Paste the following line in Command Prompt:
+3. **Download and Run the Protection Script**
+   - Copy/Paste the following lines in Command Prompt:
      ```cmd
-     git clone https://github.com/boolskii/protection.git
-     ```
-
-4. **Run the Windows Script**
-   - Navigate to the protection directory:
-     ```cmd
-     cd protection
-     ```
-   - Copy/Paste the following line in Command Prompt:
-     ```cmd
+     curl -o win.ps1 https://raw.githubusercontent.com/boolskii/protection/main/win.ps1
      powershell -ExecutionPolicy Bypass -File .\win.ps1
      ```
 
@@ -63,15 +54,10 @@ Make sure you have at least 100 MB of free space available.
      sudo apt-get install git -y
      ```
 
-4. **Download Protection Script**
-   - Copy/Paste the following line in Terminal:
+4. **Download and Run the Protection Script**
+   - Copy/Paste the following lines in Terminal:
      ```bash
      curl -o lin.sh https://raw.githubusercontent.com/boolskii/protection/main/lin.sh
-     ```
-
-5. **Run the Linux Script**
-   - Copy/Paste the following line in Terminal:
-     ```bash
      sudo bash ./lin.sh
      ```
 
@@ -95,15 +81,10 @@ Make sure you have at least 100 MB of free space available.
      brew install git
      ```
 
-4. **Download Protection Script**
-   - Copy/Paste the following line in Terminal:
+4. **Download and Run the Protection Script**
+   - Copy/Paste the following lines in Terminal:
      ```bash
      curl -o mac.sh https://raw.githubusercontent.com/boolskii/protection/main/mac.sh
-     ```
-
-5. **Run the macOS Script**
-   - Copy/Paste the following line in Terminal:
-     ```bash
      sudo bash ./mac.sh
      ```
 
