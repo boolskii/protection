@@ -1,4 +1,6 @@
-![Project Logo](./assets/logo.svg)
+<p align="center">
+  <img src="./assets/logo.svg" alt="Project Logo" width="200"/>
+</p>
 
 # Optimal System Protection 
 
@@ -14,7 +16,9 @@ The Protection script will maximize the security of your computer, providing rob
 
 ### For Windows Users:
 
-![Windows Logo](./assets/windows.png)
+<p align="left">
+  <img src="./assets/windows.png" alt="Windows Logo" width="50"/>
+</p>
 
 Ensure you have at least 200 MB of free space available.
 
@@ -44,7 +48,9 @@ Your Windows PC is now protected from unwanted activity!
 
 ### For macOS Users:
 
-![macOS Logo](./assets/macos.png)
+<p align="left">
+  <img src="./assets/macos.png" alt="macOS Logo" width="50"/>
+</p>
 
 Ensure you have at least 100 MB of free space available.
 
@@ -73,7 +79,9 @@ Your macOS system is now protected from unwanted activity!
 
 ### For Linux Users:
 
-![Linux Logo](./assets/linux.png)
+<p align="left">
+  <img src="./assets/linux.png" alt="Linux Logo" width="50"/>
+</p>
 
 Ensure you have at least 100 MB of free space available.
 
