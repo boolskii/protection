@@ -12,17 +12,32 @@ The Protection script will maximize the security of your computer, providing rob
 - ✓ Enhances overall system stability and performance
 - ✓ Prevents common security vulnerabilities
 
+<p align="center">
+  Choose your operating system:
+</p>
+
+<p align="center">
+  <a href="#for-windows-users">
+    <img src="./assets/windows.png" alt="Windows Logo" width="100"/>
+  </a>
+  <a href="#for-macos-users">
+    <img src="./assets/macos.png" alt="macOS Logo" width="100"/>
+  </a>
+  <a href="#for-linux-users">
+    <img src="./assets/linux.png" alt="Linux Logo" width="100"/>
+  </a>
+</p>
+
 ## To receive these benefits:
 
 ### For Windows Users:
 
-<p align="left">
-  <img src="./assets/windows.png" alt="Windows Logo" width="50"/>
-</p>
+<a name="for-windows-users"></a>
 
 Ensure you have at least 200 MB of free space available.
 
 1. **Open Command Prompt**
+   <img src="./assets/windows.png" alt="Windows Logo" width="50" align="right"/>
    - Press `Windows + R`
    - Type `cmd`
    - Press `Enter`
@@ -48,13 +63,12 @@ Your Windows PC is now protected from unwanted activity!
 
 ### For macOS Users:
 
-<p align="left">
-  <img src="./assets/macos.png" alt="macOS Logo" width="50"/>
-</p>
+<a name="for-macos-users"></a>
 
 Ensure you have at least 100 MB of free space available.
 
 1. **Open Terminal**
+   <img src="./assets/macos.png" alt="macOS Logo" width="50" align="right"/>
 
 2. **Install Homebrew (if not already installed)**
    - Copy and paste the following command into Terminal:
@@ -79,13 +93,12 @@ Your macOS system is now protected from unwanted activity!
 
 ### For Linux Users:
 
-<p align="left">
-  <img src="./assets/linux.png" alt="Linux Logo" width="50"/>
-</p>
+<a name="for-linux-users"></a>
 
 Ensure you have at least 100 MB of free space available.
 
 1. **Open Terminal**
+   <img src="./assets/linux.png" alt="Linux Logo" width="50" align="right"/>
 
 2. **Update Package Lists**
    - Copy and paste the following command into Terminal:
