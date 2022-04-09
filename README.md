@@ -1,10 +1,22 @@
 <p align="center">
+  <a href="#windows-install-instructions">
+    <img src="./assets/windows.png" alt="Windows Logo" width="100" style="margin-right: 50px;"/>
+  </a>
+  <a href="#macos-install-instructions">
+    <img src="./assets/macos.png" alt="macOS Logo" width="100" style="margin-right: 50px;"/>
+  </a>
+  <a href="#linux-install-instructions">
+    <img src="./assets/linux.png" alt="Linux Logo" width="100" style="margin-right: 50px;"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="./assets/logo.svg" alt="Project Logo" width="200"/>
 </p>
 
-# Optimal System Protection 
+# Optimal System Protection
 
-The Protection script will maximize the security of your computer, providing robust and comprehensive security measures.
+The Protection script maximizes the security of your computer, providing robust and comprehensive security measures.
 - ✓ Enables Firewall
 - ✓ Blocks unauthorized access
 - ✓ Reduces attack surface by disabling unused services
@@ -12,27 +24,9 @@ The Protection script will maximize the security of your computer, providing rob
 - ✓ Enhances overall system stability and performance
 - ✓ Prevents common security vulnerabilities
 
-<p align="center">
-  Choose your operating system:
-</p>
+## Windows Install Instructions
 
-<p align="center">
-  <a href="#for-windows-users">
-    <img src="./assets/windows.png" alt="Windows Logo" width="100"/>
-  </a>
-  <a href="#for-macos-users">
-    <img src="./assets/macos.png" alt="macOS Logo" width="100"/>
-  </a>
-  <a href="#for-linux-users">
-    <img src="./assets/linux.png" alt="Linux Logo" width="100"/>
-  </a>
-</p>
-
-## To receive these benefits:
-
-### For Windows Users:
-
-<a name="for-windows-users"></a>
+<a name="windows-install-instructions"></a>
 
 Ensure you have at least 200 MB of free space available.
 
@@ -59,11 +53,11 @@ Ensure you have at least 200 MB of free space available.
      powershell -ExecutionPolicy Bypass -File .\win.ps1
      ```
 
-Your Windows PC is now protected from unwanted activity!
+Your Windows PC is now protected from unwanted activity.
 
-### For macOS Users:
+## macOS Install Instructions
 
-<a name="for-macos-users"></a>
+<a name="macos-install-instructions"></a>
 
 Ensure you have at least 100 MB of free space available.
 
@@ -89,11 +83,11 @@ Ensure you have at least 100 MB of free space available.
      sudo bash ./mac.sh
      ```
 
-Your macOS system is now protected from unwanted activity!
+Your macOS system is now protected from unwanted activity.
 
-### For Linux Users:
+## Linux Install Instructions
 
-<a name="for-linux-users"></a>
+<a name="linux-install-instructions"></a>
 
 Ensure you have at least 100 MB of free space available.
 
@@ -119,4 +113,4 @@ Ensure you have at least 100 MB of free space available.
      sudo bash ./lin.sh
      ```
 
-Your Linux system is now protected from unwanted activity!
+Your Linux system is now protected from unwanted activity.
