@@ -4,17 +4,17 @@
 
 <p align="center">
   <a href="#windows-install-instructions">
-    <img src="./assets/windows.png" alt="Windows Logo" width="100" style="margin-right: 100px;"/>
+    <img src="./assets/windows.png" alt="Windows Logo" width="100" style="margin-right: 50px;"/>
   </a>
   <a href="#macos-install-instructions">
-    <img src="./assets/macos.png" alt="macOS Logo" width="100" style="margin-right: 100px;"/>
+    <img src="./assets/macos.png" alt="macOS Logo" width="100" style="margin-right: 50px;"/>
   </a>
   <a href="#linux-install-instructions">
     <img src="./assets/linux.png" alt="Linux Logo" width="100"/>
   </a>
 </p>
 
-<div style="display: flex; align-items: center; margin-bottom: 40px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
   <div style="flex: 1;">
     <h2>Protection robustly and comprehensively optimizes your system's security settings.</h2>
     <ul>
@@ -26,18 +26,16 @@
       <li>✓ Prevents common security vulnerabilities</li>
     </ul>
   </div>
-  <div style="flex: 0;">
-    <img src="./assets/logo.svg" alt="Project Logo" width="100"/>
+  <div style="flex: 0; align-self: flex-start; margin-left: 20px;">
+    <img src="./assets/logo.svg" alt="Project Logo" width="80"/>
   </div>
 </div>
 
-## Windows Install Instructions
-
-<a name="windows-install-instructions"></a>
+<h2 id="windows-install-instructions">Windows Install Instructions</h2>
 
 Ensure you have at least 200 MB of free space available.
 
-<div style="display: flex; margin-bottom: 40px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
   <div style="flex: 1;">
     <ol>
       <li><strong>Open Command Prompt</strong>
@@ -70,13 +68,11 @@ powershell -ExecutionPolicy Bypass -File .\win.ps1</code></pre>
   </div>
 </div>
 
-## macOS Install Instructions
-
-<a name="macos-install-instructions"></a>
+<h2 id="macos-install-instructions">macOS Install Instructions</h2>
 
 Ensure you have at least 100 MB of free space available.
 
-<div style="display: flex; margin-bottom: 40px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
   <div style="flex: 1;">
     <ol>
       <li><strong>Open Terminal</strong></li>
@@ -107,13 +103,11 @@ sudo bash ./mac.sh</code></pre>
   </div>
 </div>
 
-## Linux Install Instructions
-
-<a name="linux-install-instructions"></a>
+<h2 id="linux-install-instructions">Linux Install Instructions</h2>
 
 Ensure you have at least 100 MB of free space available.
 
-<div style="display: flex; margin-bottom: 40px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
   <div style="flex: 1;">
     <ol>
       <li><strong>Open Terminal</strong></li>
