@@ -1,24 +1,22 @@
-<p align="center" style="font-size: 24px;">
+<p align="center">
   <strong>Click your operating system to ensure maximum security</strong>
 </p>
 
 <p align="center">
   <a href="#windows-install-instructions">
-    <img src="./assets/windows.png" alt="Windows Logo" width="100" style="margin: 0 30px;"/>
+    <img src="./assets/windows.png" alt="Windows Logo" width="100" style="margin-right: 100px;"/>
   </a>
   <a href="#macos-install-instructions">
-    <img src="./assets/macos.png" alt="macOS Logo" width="100" style="margin: 0 30px;"/>
+    <img src="./assets/macos.png" alt="macOS Logo" width="100" style="margin-right: 100px;"/>
   </a>
   <a href="#linux-install-instructions">
-    <img src="./assets/linux.png" alt="Linux Logo" width="100" style="margin: 0 30px;"/>
+    <img src="./assets/linux.png" alt="Linux Logo" width="100"/>
   </a>
 </p>
 
----
-
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <div style="flex: 1;">
-    <h1>Protection maximizes the security of your computer, providing robust and comprehensive security measures.</h1>
+    <h2>Protection robustly and comprehensively optimizes your system's security settings.</h2>
     <ul>
       <li>✓ Enables Firewall</li>
       <li>✓ Blocks unauthorized access</li>
@@ -29,11 +27,9 @@
     </ul>
   </div>
   <div style="flex: 0;">
-    <img src="./assets/logo.svg" alt="Project Logo" width="100" style="margin-left: 20px;"/>
+    <img src="./assets/logo.svg" alt="Project Logo" width="100"/>
   </div>
 </div>
-
----
 
 ## Windows Install Instructions
 
@@ -41,14 +37,14 @@
 
 Ensure you have at least 200 MB of free space available.
 
-<div style="display: flex; align-items: center; margin-bottom: 40px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
   <div style="flex: 1;">
     <ol>
       <li><strong>Open Command Prompt</strong>
         <ul>
-          <li>Press `Windows + R`</li>
-          <li>Type `cmd`</li>
-          <li>Press `Enter`</li>
+          <li>Press <code>Windows + R</code></li>
+          <li>Type <code>cmd</code></li>
+          <li>Press <code>Enter</code></li>
         </ul>
       </li>
       <li><strong>Install Git</strong>
@@ -74,15 +70,13 @@ powershell -ExecutionPolicy Bypass -File .\win.ps1</code></pre>
   </div>
 </div>
 
----
-
 ## macOS Install Instructions
 
 <a name="macos-install-instructions"></a>
 
 Ensure you have at least 100 MB of free space available.
 
-<div style="display: flex; align-items: center; margin-bottom: 40px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
   <div style="flex: 1;">
     <ol>
       <li><strong>Open Terminal</strong></li>
@@ -113,15 +107,13 @@ sudo bash ./mac.sh</code></pre>
   </div>
 </div>
 
----
-
 ## Linux Install Instructions
 
 <a name="linux-install-instructions"></a>
 
 Ensure you have at least 100 MB of free space available.
 
-<div style="display: flex; align-items: center; margin-bottom: 40px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
   <div style="flex: 1;">
     <ol>
       <li><strong>Open Terminal</strong></li>
