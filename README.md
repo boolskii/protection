@@ -37,7 +37,7 @@
 
 Ensure you have at least 200 MB of free space available.
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
+<div style="display: flex; margin-bottom: 40px;">
   <div style="flex: 1;">
     <ol>
       <li><strong>Open Command Prompt</strong>
@@ -65,8 +65,8 @@ powershell -ExecutionPolicy Bypass -File .\win.ps1</code></pre>
     </ol>
     Your Windows PC is now protected from unwanted activity.
   </div>
-  <div style="flex: 0;">
-    <img src="./assets/windows.png" alt="Windows Logo" width="100" style="margin-left: 20px;"/>
+  <div style="flex: 0; align-self: flex-start; margin-left: 20px;">
+    <img src="./assets/windows.png" alt="Windows Logo" width="80"/>
   </div>
 </div>
 
@@ -76,7 +76,7 @@ powershell -ExecutionPolicy Bypass -File .\win.ps1</code></pre>
 
 Ensure you have at least 100 MB of free space available.
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
+<div style="display: flex; margin-bottom: 40px;">
   <div style="flex: 1;">
     <ol>
       <li><strong>Open Terminal</strong></li>
@@ -102,8 +102,8 @@ sudo bash ./mac.sh</code></pre>
     </ol>
     Your macOS system is now protected from unwanted activity.
   </div>
-  <div style="flex: 0;">
-    <img src="./assets/macos.png" alt="macOS Logo" width="100" style="margin-left: 20px;"/>
+  <div style="flex: 0; align-self: flex-start; margin-left: 20px;">
+    <img src="./assets/macos.png" alt="macOS Logo" width="80"/>
   </div>
 </div>
 
@@ -113,7 +113,7 @@ sudo bash ./mac.sh</code></pre>
 
 Ensure you have at least 100 MB of free space available.
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
+<div style="display: flex; margin-bottom: 40px;">
   <div style="flex: 1;">
     <ol>
       <li><strong>Open Terminal</strong></li>
@@ -139,7 +139,7 @@ sudo bash ./lin.sh</code></pre>
     </ol>
     Your Linux system is now protected from unwanted activity.
   </div>
-  <div style="flex: 0;">
-    <img src="./assets/linux.png" alt="Linux Logo" width="100" style="margin-left: 20px;"/>
+  <div style="flex: 0; align-self: flex-start; margin-left: 20px;">
+    <img src="./assets/linux.png" alt="Linux Logo" width="80"/>
   </div>
 </div>
