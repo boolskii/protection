@@ -14,19 +14,19 @@
   </a>
 </p>
 
-<div style="margin-bottom: 40px;">
-  <div style="display: flex; justify-content: space-between;">
+<div style="margin-bottom: 60px;">
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="flex: 1;">
       <h2>Protection robustly and comprehensively optimizes your system's security settings.</h2>
-      <p>✓ Enables Firewall</p>
-      <p>✓ Blocks unauthorized access</p>
-      <p>✓ Reduces attack surface by disabling unused services</p>
-      <p>✓ Applies security settings</p>
-      <p>✓ Enhances overall system stability and performance</p>
-      <p>✓ Prevents common security vulnerabilities</p>
+      <p style="line-height: 1.5;">✓ Enables Firewall</p>
+      <p style="line-height: 1.5;">✓ Blocks unauthorized access</p>
+      <p style="line-height: 1.5;">✓ Reduces attack surface by disabling unused services</p>
+      <p style="line-height: 1.5;">✓ Applies security settings</p>
+      <p style="line-height: 1.5;">✓ Enhances overall system stability and performance</p>
+      <p style="line-height: 1.5;">✓ Prevents common security vulnerabilities</p>
     </div>
     <div style="flex: 0; margin-left: 20px;">
-      <img src="./assets/logo.svg" alt="Project Logo" width="80"/>
+      <img src="./assets/logo.svg" alt="Project Logo" width="80" style="float: right;"/>
     </div>
   </div>
 </div>
@@ -35,11 +35,11 @@
 
 Ensure you have at least 200 MB of free space available.
 
-<div style="margin-bottom: 40px;">
-  <div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1;">
-      <img src="./assets/windows.png" alt="Windows Logo" width="80" style="float: right; margin-left: 20px;"/>
-      <ol>
+<div style="margin-bottom: 60px;">
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="flex: 1; position: relative;">
+      <img src="./assets/windows.png" alt="Windows Logo" width="80" style="position: absolute; top: 0; right: 0; margin: 0 20px 20px 20px;"/>
+      <ol style="line-height: 1.5;">
         <li><strong>Open Command Prompt</strong>
           <ul>
             <li>Press <code>Windows + R</code></li>
@@ -72,12 +72,18 @@ powershell -ExecutionPolicy Bypass -File .\win.ps1</code></pre>
 
 Ensure you have at least 100 MB of free space available.
 
-<div style="margin-bottom: 40px;">
-  <div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1;">
-      <img src="./assets/macos.png" alt="macOS Logo" width="80" style="float: right; margin-left: 20px;"/>
-      <ol>
-        <li><strong>Open Terminal</strong></li>
+<div style="margin-bottom: 60px;">
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="flex: 1; position: relative;">
+      <img src="./assets/macos.png" alt="macOS Logo" width="80" style="position: absolute; top: 0; right: 0; margin: 0 20px 20px 20px;"/>
+      <ol style="line-height: 1.5;">
+        <li><strong>Open Terminal</strong>
+          <ul>
+            <li>Press <code>Command + Space</code></li>
+            <li>Type <code>Terminal</code></li>
+            <li>Press <code>Enter</code></li>
+          </ul>
+        </li>
         <li><strong>Install Homebrew (if not already installed)</strong>
           <ul>
             <li>Copy and paste the following command into Terminal:</li>
@@ -107,12 +113,16 @@ sudo bash ./mac.sh</code></pre>
 
 Ensure you have at least 100 MB of free space available.
 
-<div style="margin-bottom: 40px;">
-  <div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1;">
-      <img src="./assets/linux.png" alt="Linux Logo" width="80" style="float: right; margin-left: 20px;"/>
-      <ol>
-        <li><strong>Open Terminal</strong></li>
+<div style="margin-bottom: 60px;">
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="flex: 1; position: relative;">
+      <img src="./assets/linux.png" alt="Linux Logo" width="80" style="position: absolute; top: 0; right: 0; margin: 0 20px 20px 20px;"/>
+      <ol style="line-height: 1.5;">
+        <li><strong>Open Terminal</strong>
+          <ul>
+            <li>Press <code>Ctrl + Alt + T</code> or open it from the application menu.</li>
+          </ul>
+        </li>
         <li><strong>Update Package Lists</strong>
           <ul>
             <li>Copy and paste the following command into Terminal:</li>
