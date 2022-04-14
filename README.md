@@ -4,17 +4,17 @@
 
 <p align="center">
   <a href="#windows-install-instructions">
-    <img src="./assets/windows.png" alt="Windows Logo" width="120" style="margin: 0 25px;"/>
+    <img src="./assets/windows.png" alt="Windows Logo" width="120" style="margin: 0 40px;"/>
   </a>
   <a href="#macos-install-instructions">
-    <img src="./assets/macos.png" alt="macOS Logo" width="120" style="margin: 0 25px;"/>
+    <img src="./assets/macos.png" alt="macOS Logo" width="120" style="margin: 0 40px;"/>
   </a>
   <a href="#linux-install-instructions">
-    <img src="./assets/linux.png" alt="Linux Logo" width="120" style="margin: 0 25px;"/>
+    <img src="./assets/linux.png" alt="Linux Logo" width="120" style="margin: 0 40px;"/>
   </a>
 </p>
 
-<h2>Protection robustly and comprehensively optimizes your system's security settings.</h2>
+<h2 id="protection-settings">Protection robustly and comprehensively optimizes your system's security settings.</h2>
 <img align="right" width="120" src="./assets/logo.svg">
 <p style="line-height: 1.5;">✓ Enables Firewall</p>
 <p style="line-height: 1.5;">✓ Blocks unauthorized access</p>
@@ -22,6 +22,8 @@
 <p style="line-height: 1.5;">✓ Applies security settings</p>
 <p style="line-height: 1.5;">✓ Enhances overall system stability and performance</p>
 <p style="line-height: 1.5;">✓ Prevents common security vulnerabilities</p>
+
+<br><br>
 
 <h2 id="windows-install-instructions">Windows Install Instructions</h2>
 <img align="right" width="120" src="./assets/windows.png">
@@ -37,13 +39,13 @@
   <li><strong>Download Git Installer</strong>
     <ul>
       <li>Copy and paste the following command into Command Prompt to download the Git installer:</li>
-      <pre><code>powershell -Command "Invoke-WebRequest -Uri https://github.com/git-for-windows/git/releases/download/v2.14.1.windows.1/Git-2.14.1-64-bit.exe -OutFile Git-2.14.1-64-bit.exe"</code></pre>
+      <pre><code>powershell -Command "Invoke-WebRequest -Uri https://github.com/git-for-windows/git/releases/latest/download/Git-64-bit.exe -OutFile Git-64-bit.exe"</code></pre>
     </ul>
   </li>
   <li><strong>Install Git</strong>
     <ul>
       <li>Once downloaded, copy and paste the following command into Command Prompt to silently install Git:</li>
-      <pre><code>.\Git-2.14.1-64-bit.exe /VERYSILENT /NORESTART</code></pre>
+      <pre><code>.\Git-64-bit.exe /VERYSILENT /NORESTART</code></pre>
     </ul>
   </li>
   <li><strong>Install Protection</strong>
@@ -60,6 +62,8 @@
   </li>
 </ol>
 <p>Your Windows PC is now protected from unwanted activity.</p>
+
+<br><br>
 
 <h2 id="macos-install-instructions">macOS Install Instructions</h2>
 <img align="right" width="120" src="./assets/macos.png">
@@ -98,6 +102,8 @@
   </li>
 </ol>
 <p>Your macOS system is now protected from unwanted activity.</p>
+
+<br><br>
 
 <h2 id="linux-install-instructions">Linux Install Instructions</h2>
 <img align="right" width="120" src="./assets/linux.png">
