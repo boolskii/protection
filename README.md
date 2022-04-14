@@ -15,7 +15,7 @@
 </p>
 
 <h2 id="protection-settings">Protection robustly and comprehensively optimizes your system's security settings.</h2>
-<img align="right" width="120" src="./assets/logo.svg">
+<img align="right" width="150" src="./assets/logo.svg">
 <p style="line-height: 1.5;">✓ Enables Firewall</p>
 <p style="line-height: 1.5;">✓ Blocks unauthorized access</p>
 <p style="line-height: 1.5;">✓ Reduces attack surface by disabling unused services</p>
@@ -23,7 +23,7 @@
 <p style="line-height: 1.5;">✓ Enhances overall system stability and performance</p>
 <p style="line-height: 1.5;">✓ Prevents common security vulnerabilities</p>
 
-<br><br>
+<br>
 
 <h2 id="windows-install-instructions">Windows Install Instructions</h2>
 <img align="right" width="120" src="./assets/windows.png">
@@ -63,7 +63,7 @@
 </ol>
 <p>Your Windows PC is now protected from unwanted activity.</p>
 
-<br><br>
+<br>
 
 <h2 id="macos-install-instructions">macOS Install Instructions</h2>
 <img align="right" width="120" src="./assets/macos.png">
@@ -103,7 +103,7 @@
 </ol>
 <p>Your macOS system is now protected from unwanted activity.</p>
 
-<br><br>
+<br>
 
 <h2 id="linux-install-instructions">Linux Install Instructions</h2>
 <img align="right" width="120" src="./assets/linux.png">
