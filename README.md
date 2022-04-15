@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Click your operating system to ensure maximum security</strong>
+  <strong>Click your operating system to optimize security</strong>
 </p>
 
 <p align="center">
@@ -14,7 +14,6 @@
   </a>
 </p>
 
-<h2 id="protection-settings">Protection robustly and comprehensively optimizes your system's security settings.</h2>
 <img align="right" width="150" src="./assets/logo.svg">
 <p style="line-height: 1.5;">✓ Enables Firewall</p>
 <p style="line-height: 1.5;">✓ Blocks unauthorized access</p>
@@ -25,9 +24,9 @@
 
 <br>
 
-<h2 id="windows-install-instructions">Windows Install Instructions</h2>
+<h2 id="windows-install-instructions">Windows</h2>
 <img align="right" width="120" src="./assets/windows.png">
-<p>Ensure you have at least 200 MB of free space available.</p>
+<p>This requires you to have at least 200 MB of free space available.</p>
 <ol style="line-height: 1.5;">
   <li><strong>Open Command Prompt</strong>
     <ul>
@@ -61,13 +60,13 @@
     </ul>
   </li>
 </ol>
-<p>Your Windows PC is now protected from unwanted activity.</p>
+<p>Your PC is now protected from unwanted activity.</p>
 
 <br>
 
-<h2 id="macos-install-instructions">macOS Install Instructions</h2>
+<h2 id="macos-install-instructions">MacOS</h2>
 <img align="right" width="120" src="./assets/macos.png">
-<p>Ensure you have at least 100 MB of free space available.</p>
+<p>This requires you to have at least 100 MB of free space available.</p>
 <ol style="line-height: 1.5;">
   <li><strong>Open Terminal</strong>
     <ul>
@@ -101,13 +100,13 @@
     </ul>
   </li>
 </ol>
-<p>Your macOS system is now protected from unwanted activity.</p>
+<p>Your Mac is now protected from unwanted activity.</p>
 
 <br>
 
-<h2 id="linux-install-instructions">Linux Install Instructions</h2>
+<h2 id="linux-install-instructions">Linux</h2>
 <img align="right" width="120" src="./assets/linux.png">
-<p>Ensure you have at least 100 MB of free space available.</p>
+<p>This requires you to have at least 100 MB of free space available.</p>
 <ol style="line-height: 1.5;">
   <li><strong>Open Terminal</strong>
     <ul>
@@ -139,4 +138,4 @@
     </ul>
   </li>
 </ol>
-<p>Your Linux system is now protected from unwanted activity.</p>
+<p>Your system is now protected from unwanted activity.</p>
