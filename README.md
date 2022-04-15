@@ -14,7 +14,8 @@
   </a>
 </p>
 
-<img align="right" width="150" src="./assets/logo.svg">
+<br>
+
 <p style="line-height: 1.5;">✓ Enables Firewall</p>
 <p style="line-height: 1.5;">✓ Blocks unauthorized access</p>
 <p style="line-height: 1.5;">✓ Reduces attack surface by disabling unused services</p>
