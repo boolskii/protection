@@ -110,7 +110,7 @@
 <p>This requires you to have at least 100 MB of free space available.</p>
 <ol style="line-height: 1.5;">
   <li><strong>Open Terminal</strong>
-    <ul>or
+    <ul>
       <li>Press <code>Ctrl + Alt + T</code> </li>
     </ul>
   </li>
