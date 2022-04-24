@@ -110,8 +110,8 @@
 <p>This requires you to have at least 100 MB of free space available.</p>
 <ol style="line-height: 1.5;">
   <li><strong>Open Terminal</strong>
-    <ul>
-      <li>Press <code>Ctrl + Alt + T</code> or open it from the application menu.</li>
+    <ul>or
+      <li>Press <code>Ctrl + Alt + T</code> </li>
     </ul>
   </li>
   <li><strong>Update Package Lists</strong>
